@@ -1,0 +1,15 @@
+{
+  "name": "myresume",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/youssef-aitali/myportfolio",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
